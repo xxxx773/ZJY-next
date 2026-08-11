@@ -1,0 +1,7 @@
+# This repository is intentionally a public project-introduction repository.
+# Keep all application code, data, logs, and build artifacts private.
+*
+!.gitignore
+!README.md
+!assets/
+!assets/learning-assistance-flow.svg
